@@ -1,4 +1,5 @@
-# Hi👋I'm Isaac Martin
+<h1 align="center">Hi 👋, I'm Isaac Martin</h1>
+
 
 # 💫 About Me:
 I am a third-year computer engineering student at Toronto Metropolitan University, passionate about exploring the realm of coding, machine learning, full-stack development and building robust applications.
