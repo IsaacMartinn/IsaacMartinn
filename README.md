@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMartinn)](https://github.com/anuraghazra/github-readme-stats)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMartinn&show_icons=true&theme=dark)
 
 <!--
 **IsaacMartinn/IsaacMartinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
