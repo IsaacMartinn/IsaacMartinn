@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a third-year computer engineering (software engineering option) student at Toronto Metropolitan University, passionate about exploring the realm of coding, machine learning, full-stack development and building robust applications.
+I am a third-year computer engineering (software engineering option) student at Toronto Metropolitan University, passionate about exploring the realm of coding, machine learning, full-stack development and building robust applications
 
 
 ## 🌐 Socials:
